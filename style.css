@@ -135,7 +135,7 @@ button:hover {
 
 .open .lid.one {
     transform: rotateX(90deg);
-    transition-delay: 0.0s;
+    transition-delay: 0.5s;
 }
 
 .open .lid.two {
