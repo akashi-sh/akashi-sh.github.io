@@ -145,7 +145,7 @@ button:hover {
 
 .open .letter {
     transform: translateY(-100px);
-    transition-delay: 0.5s;
+    transition-delay: 0.0s;
 }
 
   
